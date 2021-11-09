@@ -1,1 +1,1 @@
-# uipathmarketplace_set-teams-and-slack-status
+# uipathmarketplace_SetTeamsAndSlackStatus
